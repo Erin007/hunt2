@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 
-import snapengerHunt from './app/index'
+import HuntApp from './app/index'
 
 'use strict';
 
